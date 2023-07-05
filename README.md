@@ -1,11 +1,11 @@
 ### Hi there 👋
 ✨My name is Umut Ergen, ı am a 23 years old QA/SDET both manual and automation. I create and execute test scripts by using Java, Selenium WebDriver, Cucumber, Maven, jUnit. I have hands on experience with all parts of Functional testing, black box testing.
 
-I have hands on experience on Agile methodology and Scrum. Participated and contributed in all activities in all phases of Agile software development and test development life cycle
+⚡ I have hands on experience on Agile methodology and Scrum. Participated and contributed in all activities in all phases of Agile software development and test development life cycle.
 
-⚡ Currently working on Fidens Solutions as SDET for over 1 years.
+🔭 Currently working on Fidens Solutions as SDET for over 1 years. But I am open to offers because of the project whic I work has came an end.
 
-🌱 I’m currently learning Software Developing
+🌱 I’m currently learning Software Developing.
 
 📫 How to reach me: umutergen62@gmail.com
 
