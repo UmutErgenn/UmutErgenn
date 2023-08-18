@@ -29,7 +29,7 @@ Welcome to my GitHub page! I'm Umut Ergen, a 23-year-old QA/SDET with expertise 
 
 I'm always excited to connect with fellow developers, testers, and anyone interested in the world of software quality. If you have any questions, want to collaborate, or just want to say hi, feel free to reach out to me at umutergen62@gmail.com.
 
-📫 How to reach me: [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/umut-ergen-477422256/)
+📫 Linkedin: [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/umut-ergen-477422256/)
 
 Let's make the software world more reliable, one test at a time! 👨‍💻🧪
 
