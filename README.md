@@ -3,7 +3,7 @@
 
 ⚡ I have hands on experience on Agile methodology and Scrum. Participated and contributed in all activities in all phases of Agile software development and test development life cycle.
 
-🔭 Currently working on Fidens Solutions as SDET for over 1 years. But I am open to offers because of the project whic I work has came an end.
+🔭 Currently working on Fidens Solutions as SDET for over 1 year. But I am open to offers because of the project which I work has came an end.
 
 🌱 I’m currently learning Software Developing.
 
